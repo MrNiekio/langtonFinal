@@ -1,0 +1,4 @@
+colorama==0.4.6
+numpy==1.26.4
+py4j==0.10.9.7
+pyspark==3.5.1
