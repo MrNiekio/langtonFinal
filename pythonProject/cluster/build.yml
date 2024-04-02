@@ -1,0 +1,5 @@
+applications:
+  spark: "3.5.1"
+build:
+  build_base: "true"
+  build_spark: "true"
